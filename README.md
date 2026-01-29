@@ -174,7 +174,7 @@ By predicting salary ranges rather than exact figures, the model aligns better w
 **Twizihirwe Benjamin**  
 Machine Learning & Data Enthusiast  
 
-- LinkedIn: https://linkedin.com/in/twizihirwe-benjamin
+- LinkedIn: https://linkedin.com/in/benjamin twizihirwe
 - GitHub: https://github.com/Benjamin005
 
 
